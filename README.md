@@ -13,8 +13,10 @@ Historical price data is pulled via yfinance. Each strategy is backtested on thi
 - [ ] Grid Trading
 
 ## How to run
+```bash
 pip install -r requirements.txt
 python moving_average_crossover.py
+```
 
 ## Tech stack
 Python, pandas, numpy, matplotlib, yfinance
