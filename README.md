@@ -6,8 +6,8 @@ A collection of simple, classic trading strategies implemented and backtested in
 Historical price data is pulled via yfinance. Each strategy is backtested on this data and evaluated against a buy-and-hold benchmark, looking at metrics like cumulative return, Sharpe ratio, and max drawdown.
 
 ## Strategies
-- [x] Moving Average Crossover — in progress
-- [ ] Mean Reversion
+- [x] Moving Average Crossover 
+- [x] Mean Reversion -- in progress
 - [ ] Bollinger Bands Breakout
 - [ ] Momentum
 - [ ] Grid Trading
