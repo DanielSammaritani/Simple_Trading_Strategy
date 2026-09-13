@@ -8,9 +8,9 @@ Historical price data is pulled via yfinance. Each strategy is backtested on thi
 ## Strategies
 - [x] Moving Average Crossover 
 - [x] Mean Reversion
-- [x] Bollinger Bands Breakout -- in progress
-- [ ] Momentum
-- [ ] Grid Trading
+- [x] Bollinger Bands Breakout 
+- [x] Momentum
+- [x] Grid Trading -- in progress
 
 ## How to run
 ```bash
